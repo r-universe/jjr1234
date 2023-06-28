@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BClustLonG"]
 	path = BClustLonG
 	url = https://github.com/cran/BClustLonG
-	shallow = true
-	registered = true
 [submodule "MAP"]
 	path = MAP
 	url = https://github.com/cran/MAP
-	shallow = true
-	registered = true
