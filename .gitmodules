@@ -5,6 +5,12 @@
 [submodule "BClustLonG"]
 	path = BClustLonG
 	url = https://github.com/cran/BClustLonG
+[submodule "HDJM"]
+	path = HDJM
+	url = https://github.com/cran/HDJM
 [submodule "MAP"]
 	path = MAP
 	url = https://github.com/cran/MAP
+[submodule "VBJM"]
+	path = VBJM
+	url = https://github.com/cran/VBJM
