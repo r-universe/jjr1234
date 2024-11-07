@@ -11,6 +11,9 @@
 [submodule "MAP"]
 	path = MAP
 	url = https://github.com/cran/MAP
+[submodule "PJFM"]
+	path = PJFM
+	url = https://github.com/cran/PJFM
 [submodule "VBJM"]
 	path = VBJM
 	url = https://github.com/cran/VBJM
