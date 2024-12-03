@@ -8,9 +8,6 @@
 [submodule "HDJM"]
 	path = HDJM
 	url = https://github.com/cran/HDJM
-[submodule "MAP"]
-	path = MAP
-	url = https://github.com/cran/MAP
 [submodule "PJFM"]
 	path = PJFM
 	url = https://github.com/cran/PJFM
